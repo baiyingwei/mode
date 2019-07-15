@@ -1,0 +1,131 @@
+// * {
+//     box-sizing: border-box;
+//     margin: 0;
+//   }
+  
+//   body {
+//     // padding: $whiteSpace $wingBlank;
+//     margin: 0;
+//     font-size: px2rem(32) !important;
+//     background-color: $white !important;
+//     color: #333;
+//   }
+  
+//   section {
+//     background: $background;
+//   }
+  
+//   input {
+//     color: #333;
+//   }
+  
+//   h1,
+//   h2,
+//   h3,
+//   h4,
+//   h5 {
+//     font-weight: normal;
+//   }
+  
+//   .flex {
+//     display: flex;
+//     width: 100%;
+//   }
+  
+//   ::-moz-placeholder {
+//     color: #d8d8d8 !important;
+//   }
+//   ::-webkit-input-placeholder {
+//     color: #d8d8d8 !important;
+//   }
+//   :-ms-input-placeholder {
+//     color: #d8d8d8 !important;
+//   }
+  
+//   .button {
+//     display: inline-block;
+//     font-size: px2rem(32);
+//     height: px2rem(100);
+//     line-height: px2rem(100);
+//     padding: 0 px2rem(28);
+//     background: $primary;
+//     text-align: center;
+//     color: #fff;
+//     white-space: nowrap;
+//     border-radius: px2rem(8);
+  
+//     &.block-button {
+//       display: block;
+//     }
+//   }
+//   a {
+//     color: $black;
+//   }
+//   /* form */
+//   .form-row {
+//     margin-top: $marginTop;
+//   }
+  
+//   /* link */
+//   .link {
+//     text-decoration: none;
+//     color: $primary;
+//   }
+//   .page-title {
+//     font-size: px2rem(60);
+//     margin: px2rem(40) 0;
+//   }
+//   .t-center {
+//     text-align: center;
+//   }
+//   .t-left {
+//     text-align: left;
+//   }
+//   .t-right {
+//     text-align: right;
+//   }
+//   .line-title {
+//     color: $grey3;
+//     text-align: center;
+//     width: 60%;
+//     margin: px2rem(72) auto px2rem(48);
+//     position: relative;
+//     &:after {
+//       display: block;
+//       content: "";
+//       position: absolute;
+//       top: px2rem(18);
+//       width: 100%;
+//       border-bottom: 1px solid #dcdcdc;
+//       z-index: 1;
+//     }
+//     .line-title-text {
+//       background-color: $bgGrey;
+//       padding: 0 px2rem(36);
+//       position: relative;
+//       z-index: 2;
+//       font-size: px2rem(36);
+//     }
+//   }
+//   .pull-right {
+//     float: right;
+//   }
+//   .pull-left {
+//     float: left;
+//   }
+//   .clear {
+//     &:after {
+//       display: block;
+//       content: "";
+//       clear: both;
+//     }
+//   }
+//   img {
+//     max-width: 100%;
+//   }
+  
+//   b {
+//     font-weight: normal;
+//     color: #4a90e2;
+//   }
+  
